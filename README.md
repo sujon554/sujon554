@@ -8,12 +8,15 @@
 
 I am a passionate web developer. If I have to work on a project and learn a technology, I am ready for that. I want to touch the height peak of web development and provide value to the organization's work.
 
-##### Skills: REACT, NextJS, Tailwind, Bootstrap, Material UI, Node, MongoDB, Express,  HTML , CSS
+
 
 - 🔭 I’m currently working on React Developer. 
 - 🌱 I’m currently learning MERN stack Developer 
 - 💬 Ask me about anything web Application 
 - 📫 How to reach me: You can knock me in any social media platform. 
+- - 📃 Mostofa's Resume: - [Click Here](https://drive.google.com/file/d/12YpzcuzDaDCHXq_Juljx3hOj2WLauY35/view)
+
+![Profile views](https://gpvc.arturio.dev/sujon554)  
 
 ## 🚀 Connect with me
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sujon554/)
