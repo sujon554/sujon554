@@ -14,7 +14,7 @@ I am a passionate web developer. If I have to work on a project and learn a tech
 - 🌱 I’m currently learning MERN stack Developer 
 - 💬 Ask me about anything web Application 
 - 📫 How to reach me: You can knock me in any social media platform. 
-- - 📃 Mostofa's Resume: - [Click Here](https://drive.google.com/file/d/12YpzcuzDaDCHXq_Juljx3hOj2WLauY35/view)
+- 📃 Mostofa's Resume: - [Click Here](https://drive.google.com/file/d/12YpzcuzDaDCHXq_Juljx3hOj2WLauY35/view)
 
 ![Profile views](https://gpvc.arturio.dev/sujon554)  
 
