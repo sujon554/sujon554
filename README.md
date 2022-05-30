@@ -66,6 +66,6 @@ I am a passionate web developer. If I have to work on a project and learn a tech
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujon554)  
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujon554)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujon554)  
 
 
