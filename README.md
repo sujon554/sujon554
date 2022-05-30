@@ -55,11 +55,11 @@ I am a passionate web developer. If I have to work on a project and learn a tech
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujon554&show_icons=true&theme=radical)
 
-<!-- <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderboy-raiyan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- -->
+<a href="https://github.com/sujon554/github-readme-stats"><img alt="Md Mostofa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujon554&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon554)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujon554)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sujon554)  
